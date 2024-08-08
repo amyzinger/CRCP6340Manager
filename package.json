@@ -1,8 +1,9 @@
 {
   "name": "crcp6340manager",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A tool to prep generative art to become NFTs",
+  "main": "app.js",
+  "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
